@@ -23,3 +23,5 @@ const even = arr.filter((n)=>{
     n%2==0;
 })
 console.log(even)
+
+// higher order functions have: Memoization, currying, function composition
